@@ -1,0 +1,2 @@
+# ReduxSimpleReact
+React Redux project
